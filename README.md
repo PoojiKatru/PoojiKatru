@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me<br><br>I’m a student focused on building advanced AI and software systems. I’m especially interested in intelligent agents, autonomous systems, and solving real-world problems through code.<br><br> Currently Working On<br><br>An AI-powered drone agent that analyzes satellite imagery and performs autonomous pathfinding<br><br>Competitive programming and advanced data structures<br><br>Modular AI agent architectures<br><br> Currently Learning<br><br>C++, Python, and advanced algorithms<br><br>AI agent orchestration frameworks<br><br>MCP servers
+About Me<br><br>I’m a student focused on building advanced AI and software systems. I’m especially interested in intelligent agents, autonomous systems, and solving real-world problems through code.<br><br> Currently Working On<br><br>Competitive programming and advanced data structures<br><br>Modular AI agent architectures<br><br> Currently Learning<br><br>C++, Python, and advanced algorithms<br><br>AI agent orchestration frameworks<br><br>MCP servers
 
 
 ## 🌐 Socials:
